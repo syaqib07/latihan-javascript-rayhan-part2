@@ -1,0 +1,1 @@
+# latihan-javascript-rayhan-part2
